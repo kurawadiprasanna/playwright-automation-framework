@@ -10,7 +10,6 @@ A production-ready Playwright framework that I've delivered to 20+ clients. Comb
 - 🔗 **Web + API** in one framework
 - 🐛 **Amazing debugging** (trace viewer, video recording)
 - 🌐 **True cross-browser** (Chromium, Firefox, WebKit)
-- 📱 **Mobile testing** included
 
 ## ✨ Framework Features
 
