@@ -36,4 +36,6 @@ A production-ready Playwright framework that I've delivered to 20+ clients. Comb
 - ESLint for code quality
 - Clean, maintainable code structure
 
+## Note:
+API based Tests implementation is in-progress.
 ## 🏗️ Framework Architecture
