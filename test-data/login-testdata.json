@@ -1,0 +1,13 @@
+{
+  "validUsers": [
+    {
+      "username": "standard_user",
+      "password": "secret_sauce",
+      "description": "standard user",
+      "expectedPostLogin": {
+       "appLogoText": "Swag Labs",
+       "urlPattern": "inventory.html"
+       }
+    }
+  ]
+}

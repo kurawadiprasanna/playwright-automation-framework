@@ -1,0 +1,43 @@
+{
+  "name": "playwright-automation-framework",
+  "version": "1.0.0",
+  "description": "Production-ready Playwright test automation framework with SauceDemo App. Features separated locators, Page Object Model, UI testing.",
+  "scripts": {
+    "test": "npx playwright test",
+    "test:ui": "npx playwright test tests/ui",
+    "test:headed": "npx playwright test --headed",
+    "test:chrome": "npx playwright test --project=chrome",
+    "report": "npx playwright show-report",
+    "trace": "npx playwright show-trace"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kurawadiprasanna/playwright-automation-framework.git"
+  },
+  "keywords": [
+    "playwright",
+    "automation",
+    "testing",
+    "e2e",
+    "api-testing",
+    "typescript",
+    "conduit",
+    "test-automation",
+    "page-object-model",
+    "ci-cd",
+    "quality-assurance",
+    "selenium-alternative"
+  ],
+  "author": "Prasanna Kurawadi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kurawadiprasanna/playwright-automation-framework/issues"
+  },
+  "homepage": "https://github.com/kurawadiprasanna/playwright-automation-framework#readme",
+  "devDependencies": {
+    "@faker-js/faker": "^10.0.0",
+    "@playwright/test": "^1.55.1",
+    "@types/node": "^24.6.2",
+    "typescript": "^4.9.5"
+  }
+}
